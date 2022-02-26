@@ -1,0 +1,9 @@
+streamlit= 1.5.1
+requests
+numpy=1.22.2
+pandas=1.4.1
+sklearn=1.0.2
+matplotlib=3.5.1
+tkinter = 8.6
+nltk=3.6.7
+pickle=4.0
